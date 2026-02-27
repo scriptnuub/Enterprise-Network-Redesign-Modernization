@@ -13,5 +13,5 @@ Modernized a legacy "flat" network architecture for an SMB to improve security, 
 ### Legacy (Before) vs. Modernized (After)
 ![Network Redesign Diagram](Network-Topology-Diagram.png)
 
-## 🚀 Job Signals
+## 🚀 Impact
 This project demonstrates advanced knowledge of **Defense-in-Depth** and **Network Hardening**. It proves I can assess existing risks and engineer technical solutions that align with modern security frameworks like NIST and Zero Trust.
